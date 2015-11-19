@@ -1,0 +1,342 @@
+{
+  "data":{
+    "structureChanged":true,
+    "updateTime":1447946412,
+    "devices":[
+      {
+        "creatorId":5,
+        "deviceType":"switchBinary",
+        "h":1078449915,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_2-0-37",
+        "location":3,
+        "metrics":{
+          "icon":"switch",
+          "title":"Switch 2-0",
+          "level":"off"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881455
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorMultilevel",
+        "h":1303304277,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_2-0-50-0",
+        "location":3,
+        "metrics":{
+          "probeTitle":"Electric",
+          "scaleTitle":"kWh",
+          "level":0,
+          "icon":"meter",
+          "title":"Meter Electric 2-0-50-0"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447945851
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorMultilevel",
+        "h":1303304279,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_2-0-50-2",
+        "location":3,
+        "metrics":{
+          "probeTitle":"Electric",
+          "scaleTitle":"W",
+          "level":0,
+          "icon":"meter",
+          "title":"Meter Electric 2-0-50-2"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447945851
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorMultilevel",
+        "h":1303304281,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_2-0-50-4",
+        "location":3,
+        "metrics":{
+          "probeTitle":"Electric",
+          "scaleTitle":"V",
+          "level":220.4,
+          "icon":"meter",
+          "title":"Meter Electric 2-0-50-4"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881455
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorMultilevel",
+        "h":1303304282,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_2-0-50-5",
+        "location":3,
+        "metrics":{
+          "probeTitle":"Electric",
+          "scaleTitle":"A",
+          "level":0,
+          "icon":"meter",
+          "title":"Meter Electric 2-0-50-5"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881455
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorMultilevel",
+        "h":1303304283,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_2-0-50-6",
+        "location":3,
+        "metrics":{
+          "probeTitle":"Electric",
+          "scaleTitle":"Power Factor",
+          "level":0,
+          "icon":"meter",
+          "title":"Meter Electric 2-0-50-6"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881455
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorBinary",
+        "h":-1248874779,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_3-0-48-8",
+        "location":2,
+        "metrics":{
+          "probeTitle":"Tamper",
+          "scaleTitle":"",
+          "icon":"motion",
+          "level":"on",
+          "title":"Sensor Tamper 3-0-48-8"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881456
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorBinary",
+        "h":-60412654,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_3-0-48-10",
+        "location":2,
+        "metrics":{
+          "probeTitle":"Door/Window",
+          "scaleTitle":"",
+          "icon":"door",
+          "level":"off",
+          "title":"Sensor Door/Window 3-0-48-10"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447937795
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorBinary",
+        "h":-60412652,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_3-0-48-12",
+        "location":2,
+        "metrics":{
+          "probeTitle":"Motion",
+          "scaleTitle":"",
+          "icon":"motion",
+          "level":"off",
+          "title":"Sensor Motion 3-0-48-12"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447946209
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorMultilevel",
+        "h":-1248873825,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_3-0-49-1",
+        "location":2,
+        "metrics":{
+          "probeTitle":"Temperature",
+          "scaleTitle":"°C",
+          "level":24.4,
+          "icon":"temperature",
+          "title":"Sensor Temperature 3-0-49-1"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447946190
+      },
+      {
+        "creatorId":5,
+        "deviceType":"sensorMultilevel",
+        "h":-1248873823,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_3-0-49-3",
+        "location":2,
+        "metrics":{
+          "probeTitle":"Luminiscence",
+          "scaleTitle":"%",
+          "level":71,
+          "icon":"luminosity",
+          "title":"Sensor Luminiscence 3-0-49-3"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447946190
+      },
+      {
+        "creatorId":5,
+        "deviceType":"battery",
+        "h":-40289343,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_3-0-128",
+        "location":0,
+        "metrics":{
+          "probeTitle":"Battery",
+          "scaleTitle":"%",
+          "level":100,
+          "icon":"battery",
+          "title":"Battery 3-0"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447937795
+      },
+      {
+        "creatorId":5,
+        "deviceType":"switchMultilevel",
+        "h":1135708218,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_4-0-38",
+        "location":1,
+        "metrics":{
+          "icon":"multilevel",
+          "title":"Dimmer 4-0",
+          "level":90
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881458
+      },
+      {
+        "creatorId":5,
+        "deviceType":"switchRGBW",
+        "h":-2047077007,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_4-0-51-rgb",
+        "location":1,
+        "metrics":{
+          "icon":"multilevel",
+          "title":"RGB",
+          "color":{
+            "r":220,
+            "g":230,
+            "b":255
+          },
+          "level":"on"
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447928643
+      },
+      {
+        "creatorId":5,
+        "deviceType":"switchMultilevel",
+        "h":493958612,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_4-0-51-0",
+        "location":1,
+        "metrics":{
+          "icon":"multilevel",
+          "title":"Soft White 4-0-51-0",
+          "level":0
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881457
+      },
+      {
+        "creatorId":5,
+        "deviceType":"switchMultilevel",
+        "h":493958613,
+        "hasHistory":false,
+        "id":"ZWayVDev_zway_4-0-51-1",
+        "location":1,
+        "metrics":{
+          "icon":"multilevel",
+          "title":"Cold White 4-0-51-1",
+          "level":0
+        },
+        "permanently_hidden":false,
+        "tags":[
+
+        ],
+        "visibility":true,
+        "updateTime":1447881457
+      }
+    ]
+  },
+  "code":200,
+  "message":"200 OK",
+  "error":null
+}
